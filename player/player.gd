@@ -7,7 +7,7 @@ extends CharacterBody2D
 @export_range(10.0, 1000.0, 1.0) var gravity: float = 500.0
 
 # needs to match the animation sprite names
-var animations: Array[String] = ["bird_1", "bird_2", "bird_3"]
+var animations: Array[String] = ["bird_1", "bird_2", "bird_3","missile"]
 var last_collision: KinematicCollision2D
 var dead: bool = false
 
