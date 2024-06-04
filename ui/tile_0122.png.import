@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ci0oxqms5nmrx"
-path="res://.godot/imported/pipes.png-d7e47f5c950b564d2a55ccefd1c459f9.ctex"
+uid="uid://dv8whurxmam0i"
+path="res://.godot/imported/tile_0122.png-58cbd6b1e4fb4fe600c73ce2c1dfdfd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://world_tile_map/sprites/pipes.png"
-dest_files=["res://.godot/imported/pipes.png-d7e47f5c950b564d2a55ccefd1c459f9.ctex"]
+source_file="res://ui/tile_0122.png"
+dest_files=["res://.godot/imported/tile_0122.png-58cbd6b1e4fb4fe600c73ce2c1dfdfd2.ctex"]
 
 [params]
 
